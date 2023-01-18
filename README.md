@@ -1,6 +1,6 @@
 # sales-dashboard
 <h2>Introduction</h2>
-<h4>In this Tableau Dashboard, I learned the Tableau and visualized product sales by creating this Tableau dashboard.<h4>
+<h4>The Tableau Dashboard was a great learning experience for me. I got to understand the basics of Tableau and its visualizations, and also got to apply it practically by creating this Tableau dashboard. It was a real eye-opener to visualize the sales data and understand the pattern of the sales over time. Overall, it was a great learning experience and I am now confident in my proficiency in using Tableau.<h4>
 <h2>Steps</h2>
 <h3>Step 1:- Symbol Map</h3>
 <h4>First, I Visualized Sum of sale in country using a symbol map visualization.<h4>
